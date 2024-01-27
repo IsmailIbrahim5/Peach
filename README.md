@@ -129,7 +129,7 @@ There's definetly a lot more to work on this app. For example:
 And lots more.
 Right now I don't know where things will take me or will this be the last update for this application, but as for currently I would love to take a break from this one, work on something different and hopefully get back to it later on.
 
-## Send me a message
+## Say Hello!
 It would absloutely mean a lot to me to know that someone found this page and downloaded my application, so I added method to instantly add my account on the application. If you would like you can send me a message and I'll respond as soon as I can.
 
 
