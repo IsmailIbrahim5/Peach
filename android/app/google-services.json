@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "229362840170",
+    "firebase_url": "https://messenger-e75fb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messenger-e75fb",
+    "storage_bucket": "messenger-e75fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229362840170:android:d204f21eae1a901110d013",
+        "android_client_info": {
+          "package_name": "com.example.messeging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMMvtNr820I-P0ijhUhbE5SAjJcaJIUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229362840170:android:03429a846dacd40710d013",
+        "android_client_info": {
+          "package_name": "com.zero.messeging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMMvtNr820I-P0ijhUhbE5SAjJcaJIUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
