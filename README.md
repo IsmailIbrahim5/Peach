@@ -14,7 +14,7 @@ Open-sourcing my experimentation with Flutter in chat applications.
 
 # What did I create new in this app?
 
-## Delayed Animation Builder
+## SequenceAnimationBuilder
 I was trying to find a way to fire multiple sequneced animation that can be repeated or reversed with specific amount of delay.
 Firing `AnimationController` with `Future.delayed()` method would still occur much more delay than it should and would ruin the animation as whole.
 So I tried to go to basics and understand how animations work in Flutter, and I learned about `Ticker` and how to use them.
