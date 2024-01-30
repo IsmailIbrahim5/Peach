@@ -115,7 +115,7 @@ Firebase Storage
 Firebase Authentication
 Firebase Messagging
 ```
-I'm also using a crappy handwritten `Node JS` app server that is currently uploaded on free host on [Render](https://www.render.com/) to access the Firebase admin panel and send notification messages from one user to another.
+I'm also using a crappy handwritten [Node JS app server](https://github.com/IsmailIbrahim5/peach_server) that is currently uploaded on free host on [Render](https://www.render.com/) to access the Firebase admin panel and send notification messages from one user to another.
 
 ## QR Code
 In this app I'm making the whole adding and connecting with people process through QR Codes. Although it may not seem practical in the real world or at least It would be nicer if there's a different method, I was always fascinated by the idea of just picking up your phone, scanning a code and that's it. It was always mind blowing for me and I wanted to apply it at least in this application, but if there are more users on this app I'll probably consider adding a different methods to add contacts.
